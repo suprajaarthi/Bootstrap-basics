@@ -1,2 +1,2 @@
 # Bootstrap-basics
-Basic concepts bootstrap
+Basic concepts bootstrap fix
